@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: akeow
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: logo.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Alicia Keow
+  avatar: bio-photo.jpeg
+  bio: "Ph.D. student in Mechanical Engineering at the University of Houston."
+  email: akeow@uh.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: aliciakeow
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  orcid: 0000-0002-6656-594X
+  researchgate: Alicia_Keow2
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: XgEz7bcAAAAJ&hl=en
   facebook: #username
   instagram: #username
   bing-verify:
