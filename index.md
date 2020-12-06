@@ -3,12 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Alicia is a Ph.D. student in Mechanical Engineering at the University of Houston. She graduated with a B.S. in Electrical Engineering with a minor in Computer Science from Wichita State University in Spring 2016. Her research interest is in the area of Dynamic Systems and Control. Her research includes buoyancy control of bio-inspired robotic fish using reversible fuel cells and hydrogen energy storage systems. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Bio-inspired 3D manuverable underwater robots 
+- Renewable energy storage systems using smart materials 
